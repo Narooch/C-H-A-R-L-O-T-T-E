@@ -59,6 +59,7 @@ charlotte/
 ├── plugins/
 │   ├── recon/              # Subdomain enum, port scans, etc.
 │   ├── vulnscan/           # XSS, SQLi detectors, etc.
+│   ├── nmap/           # Nmap, port scan, recon.
 │   └── re/                 # Binary plugins: strings, ghidra, symbolic tracing
 │       ├── bin_strings.py  # 🔍 String & entropy analysis plugin
 │       ├── symbolic_trace.py 
